@@ -13,3 +13,4 @@ If you would like to use a GPU on colab you can change this setting by selecting
 ### Files
 This repository contains the following files:
 * `KAN_classification.ipynb` - A detailed Jupyter Notebook that will guide readers through how to make a KAN for classification.
+* * `KAN_regression.ipynb` - A detailed Jupyter Notebook that will guide readers through how to make a KAN for regression.

@@ -1,5 +1,5 @@
 # Kolmogorov-Arnold Networks
-Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.
+Kolmogorov-Arnold Networks (KANs), inspired by the Kolmogorov-Arnold representation theorem, are promising alternatives to neural networks (NNs). KANs have activation functions on edges, whereas NNs have activation functions on nodes. This repo serves as an accessible tutorial on how to get started using KANs and comparing them directly to NN alternatives.
 
 <p align="center">
   <img src="img/kan_classification.gif" alt="A Kolmogorov-Arnold Network being trained overtime." width="400"/>

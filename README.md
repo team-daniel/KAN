@@ -6,7 +6,9 @@ Kolmogorov-Arnold Networks (KANs) for classification and regression tasks.
 </p>
 
 ### Getting Started
-All the necessary code and packages are contained within a Jupyter Notebook in this repository.
+All the necessary code and packages are contained within a Jupyter Notebook in this repository. Open either the classification or regression notebook and click run. 
+
+If you would like to use a GPU on colab you can change this setting by selecting `Change Runtime Type -> GPU`, otherwise select `cpu`.
 
 ### Files
 This repository contains the following files:

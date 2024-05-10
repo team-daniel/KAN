@@ -10,6 +10,15 @@ All the necessary code and packages are contained within a Jupyter Notebook in t
 
 If you would like to use a GPU on colab you can change this setting by selecting `Change Runtime Type -> GPU`, otherwise select `cpu`.
 
+If you would like to run this code locally, I am using these versions of the following packages:
+
+```python
+torch==2.2.1+cu121
+matplotlib==3.7.1
+sklearn==1.2.2
+moviepy==1.0.3
+```
+
 ### Files
 This repository contains the following files:
 * `KAN_classification.ipynb` - A detailed Jupyter Notebook that will guide readers through how to make a KAN for classification.
